@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-26T22:32:38 IST" name="Surefire suite" finished-at="2023-03-26T22:32:38 IST" duration-ms="59">
+    <groups>
+    </groups>
+    <test started-at="2023-03-26T22:32:38 IST" name="Surefire test" finished-at="2023-03-26T22:32:38 IST" duration-ms="59">
+      <class name="com.ayan.service.TestCalculator">
+        <test-method signature="testAdd()" started-at="2023-03-26T22:32:38 IST" name="testAdd" finished-at="2023-03-26T22:32:38 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method signature="testDiv()" started-at="2023-03-26T22:32:38 IST" name="testDiv" finished-at="2023-03-26T22:32:38 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDiv -->
+        <test-method signature="testMod()" started-at="2023-03-26T22:32:38 IST" name="testMod" finished-at="2023-03-26T22:32:38 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMod -->
+        <test-method signature="testModZero()" started-at="2023-03-26T22:32:38 IST" name="testModZero" finished-at="2023-03-26T22:32:38 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testModZero -->
+        <test-method signature="testSub()" started-at="2023-03-26T22:32:38 IST" name="testSub" finished-at="2023-03-26T22:32:38 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSub -->
+        <test-method signature="testMult()" started-at="2023-03-26T22:32:38 IST" name="testMult" finished-at="2023-03-26T22:32:38 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMult -->
+        <test-method signature="testDivZero()" started-at="2023-03-26T22:32:38 IST" name="testDivZero" finished-at="2023-03-26T22:32:38 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDivZero -->
+      </class> <!-- com.ayan.service.TestCalculator -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
